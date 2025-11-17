@@ -9,7 +9,7 @@
 ## Live API URL
 
 **Your Blog CMS is LIVE at:**  
-🔗 [https://blog-cms-empire-victorion0-ao8hd56q.leapcell.dev](https://blog-cms-empire-victorion0-ao8hd56q.leapcell.dev)
+🔗 [https://victor-blog-cms-empire-victorion014-b4yty9wv.leapcell.dev](https://victor-blog-cms-empire-victorion014-b4yty9wv.leapcell.dev)
 
 ---
 
@@ -97,7 +97,7 @@ blog-cms-empire/
 Local Setup (For Juniors Like Me)bash
 
 # 1. Clone repo
-git clone https://github.com/victorion0/blog-cms-empire.git
+git clone https://github.com/victorion0/victor-blog-cms-empire.git
 cd blog-cms-empire
 
 # 2. Install
